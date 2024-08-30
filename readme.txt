@@ -1,3 +1,3 @@
-cd /Users/tomyshogo/Documents/株式優待スクレイピング
+対象のディレクトリに移動
 source venv/bin/activate
 python scraping.py
